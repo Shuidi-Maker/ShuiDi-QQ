@@ -42,22 +42,3 @@
 > 官方交流群：`1072428818`
 
 ---
-
-## 通讯推送示例
-
-启用「入站 WebSocket」后，群消息大致如下：
-
-```json
-{
-  "post_type": "message",
-  "message_type": "group",
-  "group_id": 1072428818,
-  "user_id": 80264060,
-  "self_id": 447512790,
-  "message_id": 7282,
-  "time": 1784192466,
-  "raw_message": "[CQ:face,id=28]",
-  "message": [{ "type": "face", "data": { "id": "28" } }],
-  "sender": { "user_id": 80264060, "nickname": "bo7" },
-  "group_name": "水滴 BOT 交流群"
-}
