@@ -6,7 +6,7 @@
 
 ## 下载
 
-安装器通过 [GitHub Releases](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases) 提供，请以发布页中的实际附件为准。
+[下载 2.0.13 完整安装器](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/download/v2.0.13/ShuDiQQ-2.0.13-Setup.exe) | [查看发布页](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/tag/v2.0.13)
 
 | 项目 | 内容 |
 | --- | --- |
@@ -39,7 +39,7 @@
 - Windows 10 / 11 x64；Windows Server 2016 及更新版本需启用桌面体验。
 - 安装后约占用 1.5 GB，需预留安装校验和后续更新空间。
 - Microsoft Visual C++ 2015-2022 Redistributable x64。
-- 可正常访问授权服务；系统日期、时间和时区应保持准确。
+- 可正常联网；系统日期、时间和时区应保持准确。
 
 Windows 7 和旧版 Windows Server 不作为推荐运行环境。
 
@@ -50,7 +50,6 @@ Windows 7 和旧版 Windows Server 不作为推荐运行环境。
 | 桌面客户端 | Electron + Vue 3 + Element Plus |
 | 本地宿主 | C++，负责账号进程、插件和本地接口调度 |
 | QQ 桥接 | 注入 QQ NT 进程，处理消息、事件及 API 请求 |
-| 服务端 | 与管理前端分离部署，负责授权、会话和版本管理 |
 
 本仓库用于产品介绍与客户端安装器分发。源码和 SDK 不在此安装器中分发。
 
