@@ -2,16 +2,17 @@
 
 **水滴 QQ（ShuDiQQ）** 是一款本机运行的 QQ NT 多账号管理客户端。通过 Electron 桌面界面管理账号，以本地 C++ 宿主调度 QQ 进程，提供消息、事件、API、WebSocket 和插件扩展能力。
 
-当前版本：**2.0.13** | 版本码：**20013** | 平台：**Windows x64**
+当前版本：**2.0.16** | 版本码：**20016** | 平台：**Windows x64**
 
 ## 下载
 
-[下载 2.0.13 完整安装器](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/download/v2.0.13/ShuDiQQ-2.0.13-Setup.exe) | [查看发布页](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/tag/v2.0.13)
+[下载 2.0.16 完整安装器](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/download/v2.0.16/ShuDiQQ-2.0.16-Setup.exe) | [下载完整更新 ZIP](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/download/v2.0.16/ShuDiQQ-2.0.16-Electron-Windows-x64.zip) | [查看发布页](https://github.com/Shuidi-Maker/ShuiDi-QQ/releases/tag/v2.0.16)
 
 | 项目 | 内容 |
 | --- | --- |
-| 安装器 | `ShuDiQQ-2.0.13-Setup.exe` |
-| 文件大小 | 484.29 MB（507814046 字节） |
+| 安装器 | `ShuDiQQ-2.0.16-Setup.exe` |
+| 文件大小 | 508742798 字节 |
+| 完整更新 ZIP | `ShuDiQQ-2.0.16-Electron-Windows-x64.zip`（676355743 字节） |
 | 内置 QQ | QQ NT 9.9.36-53644 x64 |
 | SDK | 独立提供，不包含在客户端安装器中 |
 
